@@ -19,7 +19,7 @@
 
 图片预览：
 
-![https://raw.githubusercontent.com/tuihou123321/omnigraffle-de/master/images/demos.jpg](Snipaste_2022-10-07_16-36-58.jpg)
+![https://raw.githubusercontent.com/tuihou123321/omnigraffle-demos/master/images/demos.jpg](https://raw.githubusercontent.com/tuihou123321/omnigraffle-demos/master/images/demos.jpg)
 
 
 
